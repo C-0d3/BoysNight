@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Event invite</title>
+        <style>
+        .info {
+            overflow: auto;
+            width: 246px;
+            height:126px;
+        }
+        h1 {
+            color: red;
+        }
+            .img {
+                width: 202px;
+            }
+            h2 {
+                color: rgb(0, 166, 255);
+            }
+        </style>
+    </head>
+    <body>
+        
+        <h1>You're invited!</h1>
+        <h2>To A Boys Night!</h2>
+        
+       <div class="info"> <p>The details:</p>
+        <ul>
+            <li>We Gonna Game</li>
+            <li>Chill</li>
+            <li>Make Videos</li>
+            <li>Be The Boys</li>
+            <img class="img" src="https://www.kasandbox.org/programming-images/landscapes/lava.png">
+        </ul></div>
+        
+    </body>
+</html>
